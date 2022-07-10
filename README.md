@@ -1,6 +1,4 @@
-## Happy ngetweet 🤗
-
-Upload ke hosting kalian.
+Upload ke hosting.
 edit bagian `tweet.php`
 
 ```
@@ -17,4 +15,6 @@ define('access_token_secret', 'KEY TWITTER'); #access token secret
 ```
 
 Ganti jadi `KEY TWITTER` kalian buat disini https://developer.twitter.com/ 
-set cronjob biar aktif ngetweet 24jam done.
+set cronjob biar aktif ngetweet 24jam. 
+
+## Happy Ngetweet 🤗
